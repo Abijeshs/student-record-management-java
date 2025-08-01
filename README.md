@@ -45,12 +45,15 @@ student-record-management-java/
    git clone https://github.com/your-username/student-record-management-java.git
 
 2. **Navigate to the source directory**
-    cd student-record-management-java/src
+   ```bash
+   cd student-record-management-java/src
 
 3. **Compile the program**
+    ```bash
     javac *.java
 
 4. **Run the application**
+    ```bash
     java main
 
 ## 📸 Sample Output
@@ -66,16 +69,16 @@ Enter your choice:
 
 
 ## 🧩 Future Improvements
-    Java Swing GUI version
+   Java Swing GUI version
 
-    Android app using Room Database
+   Android app using Room Database
 
-    MySQL database integration (JDBC)
+   MySQL database integration (JDBC)
 
-    Export data to CSV or PDF
+   Export data to CSV or PDF
 
-    Admin/Student login system
+   Admin/Student login system
 
 ## 🙌 Author
-    Abijesh S
-    Final Year B.E. ECE Student | Aspiring Associate Software Engineer
+   Abijesh S
+   Final Year B.E. ECE Student | Aspiring Associate Software Engineer
